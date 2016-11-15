@@ -1,0 +1,31 @@
+/********************************************/
+/*                                          */
+/*     Estilos para adapatar bien el        */
+/*     módulo el ancho en smartphones       */
+/*                                          */
+/********************************************/ 
+
+<style type="text/css">
+
+.body {
+    min-width: 250px; 
+    
+}
+
+
+@media only screen and (max-width: 516px){
+	
+	div.light div.wrapper div.main footer.body-footer.footer a img {
+    	width: 240px;
+        
+	}
+}
+
+</style>
+
+
+
+
+---------------------------------
+
+
